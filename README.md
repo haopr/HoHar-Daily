@@ -23,12 +23,11 @@
 </p>
 
 <p align="center">
-  <img src="docs/banner.jpg" alt="呼哈日报" width="100%">
+  <img src="docs/banner.png" alt="呼哈日报" width="100%">
 </p>
 
 24×7 采集全球科技资讯，经 AI Agent 编辑与排版，每天 **UTC+8 7:00** 出一份日报。聚焦人工智能、具身智能、互联网。品牌可追溯至 2016。
 
-> 本仓库仅作产品介绍，不包含源代码。
 
 ---
 
@@ -44,24 +43,23 @@
 | --- | --- |
 | **日报** | AI 生成头条、深度、简讯、数据洞察；可听 AI 播客；报刊架翻阅往期 |
 | **发现** | NOW 资讯流（AI 初筛 / 精选）+ 事件时间轴 + 长文 |
-| **搜查** | 呼哈搜索（库内检索 + AI 速览）/ 深度调查（联网写报告 + 追问） |
+| **搜查** | 呼哈搜索 / 深度调查 |
 
 <p align="center">
   <img src="docs/web-discover.jpg" alt="发现" width="49%">
   <img src="docs/web-survey.jpg" alt="搜查" width="49%">
 </p>
 
-基座模型：DeepSeek、GLM。资讯请自行甄别。也支持飞书群订阅。
+基座模型：DeepSeek、GLM。
+支持飞书群订阅。
 
 ---
 
 ## 安卓版
 
-内测中。网页能力之外，还有 **AI 播客、呼哈搜索、阅读管理、推送**。
+内测中。拥有网页能力之外，还有 **AI 播客、呼哈搜索、发现、阅读管理等**。
 
 <p align="center">
-  <img src="docs/web-mobile.jpg" alt="移动端" width="220">
-  &nbsp;&nbsp;
   <img src="docs/qr.png" alt="安卓下载二维码" width="220">
 </p>
 
@@ -74,7 +72,7 @@
 
 ## MCP
 
-给 Agent 重度用户：把呼哈日报接到 Cursor / Claude 等客户端。
+给 AI 重度用户：把呼哈日报接到 Agent。
 
 | 工具 | 说明 |
 | --- | --- |
